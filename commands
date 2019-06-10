@@ -1,0 +1,7 @@
+# date: jun-10-2019
+source: https://unix.stackexchange.com/questions/25173/how-can-i-wrap-text-at-a-certain-column-size
+command_name: fold
+example: fold -w 80 -s text.txt
+description: 
+. -w tells the width of the text, where 80 is standard.
+. -s tells to break at spaces, and not in words.
