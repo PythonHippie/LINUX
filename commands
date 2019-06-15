@@ -14,4 +14,24 @@ example:
   echo ${#STRING}
   output:
     17
-    
+=============================
+source:
+problem: using the while,if statements in a command
+example:1
+  ls | 
+  while read file
+  do 
+  echo $file
+  done
+example:2
+  ls |
+  while read file
+  do
+  if [ ${#file} -gt 10 ]
+  then
+  echo $file
+  else
+  echo "file name is <10 chars"
+  fi
+  done
+===============================
