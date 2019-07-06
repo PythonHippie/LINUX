@@ -1,2 +1,11 @@
 https://wiki.bash-hackers.org/howto/redirection_tutorial---------------->good knowledge
 linux command line--------------------> http://linuxcommand.org/
+
+VERY IMPORTANT
+===================================================
+http://tldp.org/LDP/abs/html/index.html
+http://tldp.org/LDP/abs/html/index.html
+http://tldp.org/LDP/abs/html/index.html
+http://tldp.org/LDP/abs/html/index.html
+http://tldp.org/LDP/abs/html/index.html
+===================================================
