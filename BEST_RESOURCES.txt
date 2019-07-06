@@ -1,0 +1,2 @@
+https://wiki.bash-hackers.org/howto/redirection_tutorial---------------->good knowledge
+linux command line--------------------> http://linuxcommand.org/
