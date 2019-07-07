@@ -12,3 +12,5 @@ http://tldp.org/LDP/abs/html/index.html
 2-minute-linux-tips
 ===================
 https://www.networkworld.com/video/series/8559/2-minute-linux-tips
+-------------------
+http://capitalf.org/
